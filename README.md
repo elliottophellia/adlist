@@ -5,9 +5,10 @@
 # Download
 
 ```
-curl -sSfL https://adlists.rei.my.id/hosts -o hosts
+curl -sSfL https://raw.githubusercontent.com/elliottophellia/adlists/main/hosts -o hosts
 ```
-<small><a href="https://www.hostinger.com/tutorials/how-to-edit-hosts-file">How to Edit Hosts File in Windows, MacOS and Linux</a> | How to Add Ultimate ADList into Pi-Hole's ADLists</small> 
+
+<small><a href="https://www.hostinger.com/tutorials/how-to-edit-hosts-file">How to Edit Hosts File in Windows, MacOS and Linux</a> | <a href="https://cloudtechtips.com/network/pi-hole-adlists/390/">How to Add Ultimate ADLists into Pi-Hole's ADLists</a></small> 
 
 # License
 
