@@ -7,7 +7,7 @@ Update Weekly
 ### Download
 
 ```
-curl -sSfLO https://cdn.rei.my.id/adlist/hosts
+curl -sSfLO https://raw.githubusercontent.com/elliottophellia/adlist/refs/heads/main/hosts
 ```
 
 <small><a href="https://www.hostinger.com/tutorials/how-to-edit-hosts-file">How to Edit Hosts File in Windows, MacOS and Linux</a> | <a href="https://cloudtechtips.com/network/pi-hole-adlists/390/">How to Add Ultimate ADLists into Pi-Hole's ADLists</a></small> 
